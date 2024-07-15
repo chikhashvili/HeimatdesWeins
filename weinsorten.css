@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    margin-left: 70px;
+}
+
+
+body {
+    background-image: url("./Bilder/Qvevri-Zeichnung-768x1059.jpg.webp");
+
+}
+
+body img {
+    width: 545px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+div p {
+    width: 400px;
+    text-align: center;
+    margin-left: 170px;
+    margin-top: -500px;
+    font-size: larger;
+}
+
+main p {
+    font-size: larger;
+    width: 400px;
+    text-align: center;
+    margin-left: 940px;
+    margin-top: -240px;
+}
+
+
+footer  a {
+    color: rgb(74, 65, 122);
+    text-decoration: none;
+
+}
+
+footer h2 {
+    text-align: center;
+    margin-top: 210px;
+    margin-left: 70px;
+}
+
+footer h3 {
+    margin-left: 300px;
+   margin-top: -600px;
+}
+
+h3 {
+    margin-left: 1100px;
+    margin-top: -565px;
+}

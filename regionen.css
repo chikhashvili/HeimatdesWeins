@@ -1,0 +1,49 @@
+div img {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+
+main ol {
+    margin-left: 1050px;
+    margin-top: -835px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+h3 {
+    margin-top: 200px;
+    text-align: center;
+
+}
+
+body {
+    background-color: rgb(197, 179, 152);
+}
+
+ol li {
+    margin-bottom: 40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer div {
+    margin-bottom: -160px;
+
+}
+
+.zurück {
+    margin-top: 190px;
+    margin-bottom: 15px;
+}
+
+body a {
+    color: rgb(14, 36, 81);
+    text-decoration: none;
+
+}

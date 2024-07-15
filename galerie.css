@@ -1,0 +1,39 @@
+.Galerie {
+    display: flex;
+    gap: 2rem;
+    width: 100%;
+    padding: 5rem;
+}
+
+img {
+    width: 12rem;
+    height: 20rem;
+    object-fit: cover;
+    border-radius: 1.5rem;
+    transition: scale 250ms ease-in-out;
+    vertical-align: bottom;
+
+    &:hover {
+        scale: 1.1;
+    }
+}
+
+h1 {
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+body {
+    background-color: rgb(80, 72, 63);
+}
+
+body a {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+  margin-top: +90px ;
+}

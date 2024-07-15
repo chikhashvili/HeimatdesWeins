@@ -1,0 +1,31 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-image: url("./Bilder/geschichte\ hintergrund.webp");
+}
+
+div {
+    width: 600px;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 70px;
+    
+}
+
+main h2 {
+    text-align: center;
+    margin-top: 130px;
+   
+}
+
+body a {
+    color: rgb(249, 246, 243);
+        text-decoration: none;
+    }
+
+    div p {
+        font-size: large;
+    }
